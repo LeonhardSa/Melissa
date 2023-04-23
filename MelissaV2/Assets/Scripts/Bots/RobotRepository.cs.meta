@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 2907638dc8a3aeb4880dc310783bb0ba
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemyWhite: {fileID: 2100000, guid: aea612656a6948243896011dd62be057, type: 2}
+  - minionWhite: {fileID: 2100000, guid: 48e7ed4238f3cb846b8a6ebd6cdabbda, type: 2}
+  - enemyLight: {fileID: 2100000, guid: b5d5e00734a46c447bccca707636d68a, type: 2}
+  - minionLight: {fileID: 2100000, guid: 52d14ba76e4977d49a2dc930120536bd, type: 2}
+  - enemyThruster: {fileID: 2100000, guid: 9da3f405715d0e243bcd9f968139aa36, type: 2}
+  - minionThruster: {fileID: 2100000, guid: bf776a0b14aad3247ab00557e1acc5c4, type: 2}
+  - enemyGrey: {fileID: 2100000, guid: a6d7ba4675c125c4089763ac26d523bf, type: 2}
+  - minionGrey: {fileID: 2100000, guid: 8ea5cddf0a8ddcc45bbc3b7ef0a295aa, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

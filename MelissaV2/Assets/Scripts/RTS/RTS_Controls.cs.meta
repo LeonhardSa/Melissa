@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 80021fd9347ebf54a95611a3f6f4ed41
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SendActiveParticle: {fileID: 3553022668986917820, guid: 58fac8d3cf8f03f4aa7271da22b614af,
+      type: 3}
+  - SendPassiveParticle: {fileID: 2143569162738826381, guid: e6bd7258774884241ab213a150440e29,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
